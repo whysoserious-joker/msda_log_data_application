@@ -262,6 +262,15 @@ def default():
     avg_bytes=get_avg_bytes_transferred(start_date,today)
     ta=get_total_acts_by_day(start_date,today)
 
+    response_data={
+        "transfers":transfers,
+        "bytes":bytes,
+        "avg_bytes":avg_bytes,
+        "ta":ta
+    }
+
+    # print(response_data)
+    return jsonify(response_data)
 
 
     # ips=get_ips_per_user()
@@ -353,15 +362,7 @@ def default():
 
 
     # return render_template('dashboard.html',transfers=transfers,graph_json=graph_json, total_chart_json=total_chart_json,avg_chart_json=avg_chart_json,line_chart_json=line_chart_json)
-    response_data={
-        "transfers":transfers,
-        "bytes":bytes,
-        "avg_bytes":avg_bytes,
-        "ta":ta
-    }
 
-    # print(response_data)
-    return jsonify(response_data)
 
 @app.route('/update-data', methods=['POST'])
 def update_data():
