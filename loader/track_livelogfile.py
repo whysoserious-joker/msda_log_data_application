@@ -88,7 +88,7 @@ class LiveLog:
                         except json.JSONDecodeError as e:
                             print(f"Error decoding JSON: {e}")
                     print("loading Data .....")
-                    # self.load_data()
+                    self.load_data()
                 self.last_position = f.tell()  # Update the last position
                 self.save_last_position()  # Persist the position
 
