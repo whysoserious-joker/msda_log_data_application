@@ -1,0 +1,395 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color:#484747;
+	
+}
+.error_text{
+	color:rgb(147, 33, 16);
+}
+
+#content{
+	margin-left:15px;
+}
+
+.tags{
+	width:400px;
+}
+
+.row {
+	display: flex;
+  }
+  
+.column {
+	flex: 50%;
+	padding:10px;
+  }
+
+/* .header{
+    display: flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.header img {
+  max-height: 100px; 
+  margin-right: 20px;
+}
+
+.headrow {
+	display: flex;
+  }
+  
+.headcolumn {
+	flex: 50%;
+	padding:10px;
+  }
+
+  /* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+
+fieldset.group  { 
+  margin: 0; 
+  padding: 0; 
+  margin-bottom: 1.25em; 
+  padding: .125em; 
+} 
+
+fieldset.group legend { 
+  margin: 0; 
+  padding: 0; 
+  font-weight: bold; 
+  margin-left: 20px; 
+  font-size: 100%; 
+  color: black; 
+} 
+
+
+ul.checkbox  { 
+  margin: 0; 
+  padding: 0; 
+  margin-left: 20px; 
+  list-style: none; 
+} 
+
+ul.checkbox li input { 
+  margin-right: .25em; 
+} 
+
+ul.checkbox li {
+border: 1px transparent solid;
+float: left;
+min-width: 200px;
+}
+
+ul.checkbox li label { 
+  margin-left: 0; 
+} 
+ul.checkbox li:hover, 
+ul.checkbox li.focus  { 
+  background-color: lightyellow; 
+  border: 1px gray solid; 
+  width: 12em; 
+} 
+.tag_selector{
+  width:700px;
+}
+
+table.sortable tbody tr:nth-child(2n) td {
+  background: #eeeeee;
+}
+table.sortable tbody tr:nth-child(2n+1) td {
+  background: #dddddd;
+}
+table.sortable thead{
+  background: #b8b8b8;
+}
+#err_text{
+  color: rgb(199, 0, 0);
+
+} 
+
+
+.clarksonImg {
+  background-color: #f4f4f4;
+  padding: 15px;
+  padding-left: 110px;
+  padding-right: 110px;
+  text-align: left;
+  border-bottom: 2px solid #ccc;
+}
+
+
+.clarksonImg header img {
+  max-width: 100%;
+  height: auto;
+}
+
+.heading {
+  background-color: #004f42;
+  padding: 10px;
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.heading h1 {
+	margin: 0;
+    text-align: left;
+    color: #f4f4f4;
+	font-size: 1.8rem;
+	font-weight: 500;
+	line-height: 30px; 
+}
+
+.plots {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two columns */
+  grid-gap: 10px; /* Space between plots */
+  padding: 10px;
+}
+
+.plots h1 {
+  padding-left: 110px;
+	font-size: 1.1rem;
+	font-weight: 500;
+	line-height: 30px;
+}
+
+.plot-box {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.intro {
+	
+	padding: 10px;
+  	padding-left: 110px;
+	  padding-right: 110px;
+    background-color: #f4f4f4;
+	  /* height: 300px; */
+}
+
+.h1 {
+	margin: 0;
+	font-size: 1rem;
+	font-weight: 500;
+	line-height: 30px; 
+	padding: 10px;
+}
+
+
+
+.intro .intro-para {
+	padding: 10px;
+	border: 0.5px solid rgb(170, 168, 168);
+}
+
+.polygon{
+	padding: 10px;
+  	padding-left: 110px;
+	  padding-right: 110px;
+    background-color: #f4f4f4;
+
+}
+
+.polygon iframe{
+	margin: 0;
+	line-height: 300px;
+}
+.start{
+	padding-left: 110px;
+	padding-right: 110px;
+}
+.start .btn {
+    margin-right: 10px; /* Adds space between buttons */
+    margin-bottom: 10px; /* Adds space below buttons if they wrap */
+    padding: 10px 20px; /* Adjust padding for buttons */
+    background-color: #004f42; /* Button background color */
+    color: white; /* Button text color */
+    border: none; /* Remove button border */
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer; /* Pointer cursor on hover */
+    
+}
+
+.byzip{
+  padding: 10px;
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.textbox {
+	margin: 0;
+	font-size: 1.5rem;
+	font-weight: 500;
+	padding: 10px;
+  line-height: 30px; 
+	
+}
+
+.h2{
+  margin: 0;
+	font-size: 1.3rem;
+	font-weight: 500;
+	line-height: 30px; 
+	padding: 10px;
+
+}
+
+.input_page  {
+  display: flex;
+  height: 100vh;
+  padding-left: 110px;
+  padding-right: 110px;
+  background-color: #f4f4f4;
+}
+
+.nav {
+  width: 200px;
+  background-color: white;
+  color: white;
+  padding: 15px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.nav a {
+  display: block;
+  color: rgb(24, 22, 22);
+  padding: 10px;
+  text-decoration: none;
+  margin-bottom: 5px;
+  transition: background-color 0.3s;
+  border-radius: 4px;
+}
+.nav a:hover {
+  background-color: #575757;
+  color: #ffeb3b;
+}
+
+.nav .submenu {
+  display: none;
+  margin-left: 15px;
+}
+.nav .submenu a {
+  padding-left: 20px;
+  font-size: 14px;
+  padding: 10px;
+}
+
+
+.nav .has-submenu::after {
+  content: '►';
+  font-size: 12px;
+  transition: transform 0.3s;
+}
+.nav .has-submenu.open::after {
+  content: '▼';
+}
+
+
+.endpoint_info {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.content {
+  display: none;
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.content.active {
+  display: block;
+}
+
+.endpoint_inputs {
+  /* margin-top: 10px; */
+  margin-top: 10px;
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.endpoint_inputs input {
+  width: calc(100% - 700px); /* Adjusted for label width and spacing */
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.endpoint_inputs div {
+  margin-bottom: 10px;
+}
+.endpoint_inputs label, .endpoint_inputs input {
+  display: inline-block;
+  margin-top: 10px;
+}
+.endpoint_inputs label {
+  display: inline-block;
+            width: 100px;
+            font-weight: bold;
+            margin-right: 10px;
+}
+
+.endpoint_inputs .button-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+
+.endpoint_inputs button {
+  display: block;
+  margin-top:10px ;
+            padding: 10px;
+            background-color: #004e42;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+}
+
+.endpoint_inputs button:hover {
+  background-color: #0056b3;
+}
+
+.endpoint_inputs .url {
+  /* display: block; */
+  margin-top: 5px;
+  background-color: #e9ecef;
+  padding: 10px;
+  border-radius: 4px;
+  color: #333;
+  font-family: monospace;
+  overflow-wrap: break-word;
+}
+pre {
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 5px;
+  white-space: pre-wrap;
+}
+
+.output {
+  border: 1px solid #ccc; /* Border color and thickness */
+  padding: 20px; /* Space inside the box */
+  margin-top: 20px; /* Space above the box */
+  border-radius: 8px; /* Rounded corners */
+  background-color: #f9f9f9; /* Background color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}

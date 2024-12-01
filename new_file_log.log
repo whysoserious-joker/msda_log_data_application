@@ -1,0 +1,767 @@
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Starting : Load station details
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,582 - my_logger - INFO - Connecting to mysql...
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - INFO - Connected to mysql
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:30:42,628 - my_logger - DEBUG - logs data  loading
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,557 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:47:16,559 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:48:27,453 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,121 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:57:05,123 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,050 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 17:59:18,051 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,487 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,858 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - INFO - Connected to mysql
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:09:32,876 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:41,939 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,062 - my_logger - INFO - Starting : Load station details
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,063 - my_logger - INFO - Connecting to mysql...
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - INFO - Connected to mysql
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 18:11:42,081 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,193 - my_logger - DEBUG - processing file .DS_Store
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,196 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,627 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - INFO - Connected to mysql
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:00:25,653 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,706 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:24:34,712 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,707 - my_logger - INFO - Starting : Load station details
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,716 - my_logger - INFO - Connecting to mysql...
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,767 - my_logger - INFO - Connected to mysql
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-10-25 20:29:12,768 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:21:40,296 - my_logger - DEBUG - processing file .DS_Store
+2024-11-18 14:21:40,296 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-11-18 14:21:40,420 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:21:40,420 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:21:40,433 - my_logger - DEBUG - Connection to myqsl Unsuccessful (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
+2024-11-18 14:21:40,433 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:22:53,365 - my_logger - DEBUG - processing file .DS_Store
+2024-11-18 14:22:53,365 - my_logger - DEBUG - processing file .DS_Store
+2024-11-18 14:22:53,365 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-11-18 14:22:53,365 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-11-18 14:22:53,625 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:22:53,625 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:22:53,625 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:22:53,625 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:22:53,719 - my_logger - INFO - Connected to mysql
+2024-11-18 14:22:53,719 - my_logger - INFO - Connected to mysql
+2024-11-18 14:22:53,719 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:22:53,719 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:23:45,358 - my_logger - DEBUG - processing file sftpgo-2024-05-01T10-06-26.993.log
+2024-11-18 14:23:45,358 - my_logger - DEBUG - processing file sftpgo-2024-05-01T10-06-26.993.log
+2024-11-18 14:23:45,537 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:23:45,537 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:23:45,537 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:23:45,537 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:23:45,579 - my_logger - INFO - Connected to mysql
+2024-11-18 14:23:45,579 - my_logger - INFO - Connected to mysql
+2024-11-18 14:23:45,580 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:23:45,580 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:31:07,032 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:31:07,032 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:31:07,076 - my_logger - INFO - Connected to mysql
+2024-11-18 14:31:07,076 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:31:17,126 - my_logger - DEBUG - processing file sftpgo-2024-09-14T02-00-18.868.log
+2024-11-18 14:31:17,277 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:31:17,277 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:31:17,283 - my_logger - INFO - Connected to mysql
+2024-11-18 14:31:17,283 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:48:33,927 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:48:33,927 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:48:33,930 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:48:33,930 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:48:33,969 - my_logger - INFO - Connected to mysql
+2024-11-18 14:48:33,969 - my_logger - INFO - Connected to mysql
+2024-11-18 14:48:33,969 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:48:33,969 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:49:18,343 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:49:18,343 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:49:18,346 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:49:18,346 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:49:18,365 - my_logger - INFO - Connected to mysql
+2024-11-18 14:49:18,365 - my_logger - INFO - Connected to mysql
+2024-11-18 14:49:18,365 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:49:18,365 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:52:52,539 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:52:52,539 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:52:52,564 - my_logger - INFO - Connected to mysql
+2024-11-18 14:52:52,564 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:53:37,728 - my_logger - DEBUG - processing file sftpgo-2024-09-14T02-01-23.590.log
+2024-11-18 14:53:37,898 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:53:37,898 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:53:37,905 - my_logger - INFO - Connected to mysql
+2024-11-18 14:53:37,905 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:54:25,872 - my_logger - DEBUG - processing file sftpgo-2024-09-14T02-01-23.590 copy.log
+2024-11-18 14:54:26,062 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:54:26,062 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:54:26,083 - my_logger - INFO - Connected to mysql
+2024-11-18 14:54:26,083 - my_logger - DEBUG - logs data  loading
+2024-11-18 14:55:59,416 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-08-03.047.log
+2024-11-18 14:55:59,549 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-05-45.623.log
+2024-11-18 14:55:59,662 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-02-13.735.log
+2024-11-18 14:55:59,789 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-17-11.943.log
+2024-11-18 14:55:59,952 - my_logger - INFO - Starting : Load station details
+2024-11-18 14:55:59,953 - my_logger - INFO - Connecting to mysql...
+2024-11-18 14:55:59,966 - my_logger - INFO - Connected to mysql
+2024-11-18 14:55:59,966 - my_logger - DEBUG - logs data  loading
+2024-11-18 18:11:32,479 - my_logger - INFO - Starting : Load station details
+2024-11-18 18:11:32,479 - my_logger - INFO - Connecting to mysql...
+2024-11-18 18:11:32,519 - my_logger - INFO - Connected to mysql
+2024-11-18 18:11:32,519 - my_logger - DEBUG - logs data  loading
+2024-11-18 18:11:54,607 - my_logger - DEBUG - processing file sftpgo-2024-09-16T03-02-10.430.log
+2024-11-18 18:11:54,788 - my_logger - INFO - Starting : Load station details
+2024-11-18 18:11:54,788 - my_logger - INFO - Connecting to mysql...
+2024-11-18 18:11:54,798 - my_logger - INFO - Connected to mysql
+2024-11-18 18:11:54,798 - my_logger - DEBUG - logs data  loading
+2024-11-18 18:13:57,194 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-17-11.943 copy.log
+2024-11-18 18:13:57,355 - my_logger - INFO - Starting : Load station details
+2024-11-18 18:13:57,356 - my_logger - INFO - Connecting to mysql...
+2024-11-18 18:13:57,389 - my_logger - INFO - Connected to mysql
+2024-11-18 18:13:57,389 - my_logger - DEBUG - logs data  loading
+2024-11-18 18:15:08,550 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-17-11.943 copy 2.log
+2024-11-18 18:15:08,706 - my_logger - INFO - Starting : Load station details
+2024-11-18 18:15:08,706 - my_logger - INFO - Connecting to mysql...
+2024-11-18 18:15:08,727 - my_logger - INFO - Connected to mysql
+2024-11-18 18:15:08,728 - my_logger - DEBUG - logs data  loading
+2024-11-19 16:13:47,380 - my_logger - DEBUG - processing file sftpgo-2024-09-17T03-02-24.212.log
+2024-11-19 16:13:47,524 - my_logger - DEBUG - processing file sftpgo-2024-09-14T06-34-04.228.log
+2024-11-19 16:13:47,644 - my_logger - DEBUG - processing file sftpgo-2024-09-16T03-16-46.413.log
+2024-11-19 16:13:47,770 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-01-06.108.log
+2024-11-19 16:13:47,918 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-00-31.911.log
+2024-11-19 16:13:48,041 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-01-53.164.log
+2024-11-19 16:13:48,158 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-02-46.179.log
+2024-11-19 16:13:48,432 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-04-42.640.log
+2024-11-19 16:13:48,552 - my_logger - DEBUG - processing file sftpgo-2024-05-03T04-14-53.113.log
+2024-11-19 16:13:48,668 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-01-01.904.log
+2024-11-19 16:13:48,891 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-00-25.944.log
+2024-11-19 16:13:49,011 - my_logger - DEBUG - processing file sftpgo-2024-09-17T14-35-25.119.log
+2024-11-19 16:13:49,230 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-04-38.816.log
+2024-11-19 16:13:49,347 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-08-44.178.log
+2024-11-19 16:13:49,467 - my_logger - DEBUG - processing file sftpgo-2024-09-15T04-00-04.382.log
+2024-11-19 16:13:49,596 - my_logger - DEBUG - processing file sftpgo-2024-09-15T03-03-07.198.log
+2024-11-19 16:13:49,836 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-01-37.537.log
+2024-11-19 16:13:49,951 - my_logger - DEBUG - processing file sftpgo-2024-09-14T01-24-11.095.log
+2024-11-19 16:13:50,077 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-07-29.478.log
+2024-11-19 16:13:50,195 - my_logger - INFO - Starting : Load station details
+2024-11-19 16:13:50,195 - my_logger - INFO - Connecting to mysql...
+2024-11-19 16:13:50,227 - my_logger - INFO - Connected to mysql
+2024-11-19 16:13:50,227 - my_logger - DEBUG - logs data  loading
+2024-11-19 16:36:05,445 - my_logger - INFO - Starting : Load station details
+2024-11-19 16:36:05,445 - my_logger - INFO - Connecting to mysql...
+2024-11-19 16:36:05,510 - my_logger - INFO - Connected to mysql
+2024-11-19 16:36:05,510 - my_logger - DEBUG - logs data  loading
+2024-11-19 16:36:45,779 - my_logger - INFO - Starting : Load station details
+2024-11-19 16:36:45,779 - my_logger - INFO - Connecting to mysql...
+2024-11-19 16:36:45,817 - my_logger - INFO - Connected to mysql
+2024-11-19 16:36:45,817 - my_logger - DEBUG - logs data  loading
+2024-11-19 16:37:11,004 - my_logger - DEBUG - processing file sftpgo-2024-09-17T03-02-24.212.log
+2024-11-19 16:37:11,144 - my_logger - DEBUG - processing file sftpgo-2024-05-01T10-06-26.993.log
+2024-11-19 16:37:11,263 - my_logger - DEBUG - processing file sftpgo-2024-09-14T06-34-04.228.log
+2024-11-19 16:37:11,392 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-08-03.047.log
+2024-11-19 16:37:11,548 - my_logger - DEBUG - processing file .DS_Store
+2024-11-19 16:37:11,548 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-05-45.623.log
+2024-11-19 16:37:11,667 - my_logger - DEBUG - processing file sftpgo-2024-04-26T12-42-00.648.log
+2024-11-19 16:37:11,784 - my_logger - DEBUG - processing file sftpgo-2024-09-14T02-00-18.868.log
+2024-11-19 16:37:11,967 - my_logger - DEBUG - processing file sftpgo-2024-09-16T03-16-46.413.log
+2024-11-19 16:37:12,101 - my_logger - DEBUG - processing file sftpgo-2024-09-18T02-01-06.108.log
+2024-11-19 16:37:12,227 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-00-31.911.log
+2024-11-19 16:37:12,451 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-01-53.164.log
+2024-11-19 16:37:12,573 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-02-46.179.log
+2024-11-19 16:37:12,693 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-04-42.640.log
+2024-11-19 16:37:12,908 - my_logger - DEBUG - processing file sftpgo-2024-05-03T04-14-53.113.log
+2024-11-19 16:37:13,026 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-02-13.735.log
+2024-11-19 16:37:13,152 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-01-01.904.log
+2024-11-19 16:37:13,398 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-00-25.944.log
+2024-11-19 16:37:13,523 - my_logger - DEBUG - processing file sftpgo-2024-09-17T14-35-25.119.log
+2024-11-19 16:37:13,652 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-04-38.816.log
+2024-11-19 16:37:13,772 - my_logger - DEBUG - processing file sftpgo-2024-09-14T02-01-23.590.log
+2024-11-19 16:37:13,893 - my_logger - DEBUG - processing file sftpgo-2024-09-15T02-08-44.178.log
+2024-11-19 16:37:14,242 - my_logger - DEBUG - processing file sftpgo-2024-09-15T04-00-04.382.log
+2024-11-19 16:37:14,377 - my_logger - DEBUG - processing file sftpgo-2024-09-16T03-02-10.430.log
+2024-11-19 16:37:14,502 - my_logger - DEBUG - processing file sftpgo-2024-09-18T03-17-11.943.log
+2024-11-19 16:37:14,631 - my_logger - DEBUG - processing file sftpgo-2024-09-15T03-03-07.198.log
+2024-11-19 16:37:14,757 - my_logger - DEBUG - processing file sftpgo-2024-09-17T02-01-37.537.log
+2024-11-19 16:37:14,878 - my_logger - DEBUG - processing file sftpgo-2024-09-14T01-24-11.095.log
+2024-11-19 16:37:15,211 - my_logger - DEBUG - processing file sftpgo-2024-09-16T02-07-29.478.log
+2024-11-19 16:37:15,335 - my_logger - INFO - Starting : Load station details
+2024-11-19 16:37:15,335 - my_logger - INFO - Connecting to mysql...
+2024-11-19 16:37:15,373 - my_logger - INFO - Connected to mysql
+2024-11-19 16:37:15,373 - my_logger - DEBUG - logs data  loading
+2024-11-25 20:03:00,250 - my_logger - DEBUG - processing file sftpgo-2024-11-18T03-00-21.535.log
+2024-11-25 20:03:00,399 - my_logger - DEBUG - processing file sftpgo-2024-11-21T13-06-30.508.log
+2024-11-25 20:03:00,525 - my_logger - DEBUG - processing file sftpgo-2024-11-08T03-11-12.117.log
+2024-11-25 20:03:00,646 - my_logger - DEBUG - processing file sftpgo-2024-11-25T03-11-01.647.log
+2024-11-25 20:03:00,803 - my_logger - DEBUG - processing file sftpgo-2024-11-21T03-00-08.091.log
+2024-11-25 20:03:00,929 - my_logger - DEBUG - processing file sftpgo-2024-11-11T03-12-32.355.log
+2024-11-25 20:03:01,050 - my_logger - DEBUG - processing file sftpgo-2024-11-13T03-10-53.070.log
+2024-11-25 20:03:01,239 - my_logger - DEBUG - processing file sftpgo-2024-11-14T03-00-23.507.log
+2024-11-25 20:03:01,360 - my_logger - DEBUG - processing file sftpgo-2024-11-20T03-00-19.191.log
+2024-11-25 20:03:01,549 - my_logger - DEBUG - processing file sftpgo-2024-11-12T03-11-07.731.log
+2024-11-25 20:03:01,668 - my_logger - DEBUG - processing file sftpgo-2024-11-11T03-00-04.153.log
+2024-11-25 20:03:01,791 - my_logger - DEBUG - processing file sftpgo-2024-11-23T14-00-05.603.log
+2024-11-25 20:03:02,006 - my_logger - DEBUG - processing file sftpgo-2024-11-14T21-19-32.389.log
+2024-11-25 20:03:02,129 - my_logger - DEBUG - processing file sftpgo-2024-11-08T03-00-21.836.log
+2024-11-25 20:03:02,252 - my_logger - DEBUG - processing file sftpgo-2024-11-15T14-00-15.780.log
+2024-11-25 20:03:02,375 - my_logger - DEBUG - processing file sftpgo-2024-11-08T03-01-35.339.log
+2024-11-25 20:03:02,607 - my_logger - DEBUG - processing file sftpgo-2024-11-14T22-14-44.631.log
+2024-11-25 20:03:02,734 - my_logger - DEBUG - processing file sftpgo-2024-11-14T21-47-15.873.log
+2024-11-25 20:03:02,869 - my_logger - DEBUG - processing file sftpgo-2024-11-17T03-00-52.514.log
+2024-11-25 20:03:02,992 - my_logger - DEBUG - processing file sftpgo-2024-11-19T00-40-16.131.log
+2024-11-25 20:03:03,293 - my_logger - DEBUG - processing file sftpgo-2024-11-19T03-11-46.812.log
+2024-11-25 20:03:03,418 - my_logger - DEBUG - processing file sftpgo-2024-11-22T11-41-02.712.log
+2024-11-25 20:03:03,541 - my_logger - DEBUG - processing file sftpgo-2024-11-16T03-11-15.671.log
+2024-11-25 20:03:03,660 - my_logger - DEBUG - processing file sftpgo-2024-11-10T03-00-09.567.log
+2024-11-25 20:03:03,781 - my_logger - DEBUG - processing file sftpgo-2024-11-09T03-00-54.709.log
+2024-11-25 20:03:03,909 - my_logger - INFO - Starting : Load station details
+2024-11-25 20:03:03,909 - my_logger - INFO - Connecting to mysql...
+2024-11-25 20:03:03,979 - my_logger - INFO - Connected to mysql
+2024-11-25 20:03:03,980 - my_logger - DEBUG - logs data  loading

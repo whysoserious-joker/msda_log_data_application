@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+<body>
+    <h1>User Transfers</h1>
+    <canvas id="userTransfersChart" width="400" height="200"></canvas>
+    <script>
+        // Pass the data from Flask to JavaScript
+        const transfers = {{ transfers | tojson }};
+        
+        // Extract usernames and transfer counts for the chart
+        const usernames = transfers.map(item => item.username);
+        const transferCounts = transfers.map(item => item.transfers);
+
+        // Create the bar chart
+        const ctx = document.getElementById('userTransfersChart').getContext('2d');
+        const userTransfersChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: usernames, // X-axis labels
+                datasets: [{
+                    label: 'Transfers',
+                    data: transferCounts, // Y-axis data
+                    backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
+{% endblock %}

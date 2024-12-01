@@ -1,0 +1,105 @@
+{% extends "base.html" %}
+
+{% block content %}
+<label for="start-date">Start Date:</label>
+    <input type="date" id="start-date" name="start-date">
+    
+    <label for="end-date">End Date:</label>
+    <input type="date" id="end-date" name="end-date">
+    
+    <button id="submit-button">Submit</button>
+
+<div class ='plots'>
+    <div class="plot-box">
+        <h1>User Transfers</h1>
+        <div id="user_transfers"></div>
+    </div>
+
+    <div class="plot-box">
+        <h1>User Total Bytes Transferred</h1>
+        <div id="user_bytes_transfers"></div>
+    </div>
+
+    <div class="plot-box">
+        <h1>User Avg Bytes Transfers</h1>
+        <div id="user_avg_bytes_transfers"></div>
+    </div>
+
+    <div class="plot-box">
+        <h1>Activities by Day</h1>
+        <div id="acts_by_day"></div>
+    </div>
+</div>
+<script>
+
+
+    $(document).ready(function () {
+
+        $.ajax({
+            url: '/default',
+            method: 'GET',
+            success: function (response) {
+                // Render the default Plotly graphs
+                console.log(response)
+                Plotly.newPlot('user_transfers', response.transfers.data, response.transfers.layout);
+                Plotly.newPlot('user_bytes_transfers', response.bytes.data,response.bytes.layout);
+                Plotly.newPlot('user_avg_bytes_transfers', response.avg_bytes.data,response.avg_bytes.layout);
+                Plotly.newPlot('acts_by_day', response.ta.data,response.ta.layout);
+                // Add graphs for graph3 and graph4
+            },
+            error: function (error) {
+                console.error('Error loading default data:', error);
+            }
+        });
+
+
+        $('#submit-button').click(function () {
+            // Get selected dates
+            const startDate = $('#start-date').val();
+            const endDate = $('#end-date').val();
+
+            if (!startDate || !endDate) {
+                alert('Please select both start and end dates.');
+                return;
+            }
+
+            // Send data to Flask
+            $.ajax({
+                url: '/update-data',
+                method: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify({ start_date: startDate, end_date: endDate }),
+                success: function (response) {
+                    // Update Plotly graphs with new data
+                    Plotly.newPlot('user_transfers', response.transfers.data, response.transfers.layout);
+                Plotly.newPlot('user_bytes_transfers', response.bytes.data,response.bytes.layout);
+                Plotly.newPlot('user_avg_bytes_transfers', response.avg_bytes.data,response.avg_bytes.layout);
+                Plotly.newPlot('acts_by_day', response.ta.data,response.ta.layout);
+                },
+                error: function (error) {
+                    console.error('Error fetching data:', error);
+                }
+            });
+        });
+    });
+</script>
+    <!-- <script>
+        
+        const graph1 = {{ total_chart_json|safe }};
+        Plotly.newPlot('user_transfers', graph1.data, graph1.layout);
+
+        const graph2 = {{ graph_json|safe }};
+        Plotly.newPlot('user_bytes_transfers', graph2.data, graph2.layout);
+
+        const graph3 = {{ avg_chart_json|safe }};
+        Plotly.newPlot('user_avg_bytes_transfers', graph3.data, graph3.layout);
+
+        const graph4 = {{ line_chart_json|safe }};
+        Plotly.newPlot('acts_by_day_chart', graph4.data, graph4.layout);
+   
+
+    </script> -->
+
+{% endblock %}
+
+

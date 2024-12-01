@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Applied Data Science</h1>
+<section>
+<h1 style="background-color:powderblue;">Logged in as student {{ me['Username']}} ({{ me['Name']}}) </h1>
+<div style="font-size: 10px;">uid={{ me['uid']}}</div>
+
+<br>
+<a href="/reset_password"> Reset your MySQL password </a>
+<br>
+<a href="/update_account"> Settings / Account</a>
+<br>
+<a href="/logout">Logout</a>
+
+
+{% endblock %}

@@ -1,0 +1,1 @@
+2024-11-25 11:41:31,780 ERROR mysql_connect(44) Database connection failed: (2003, "Can't connect to MySQL server on 'localhost' ([Errno 61] Connection refused)")
