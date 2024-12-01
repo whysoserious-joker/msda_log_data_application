@@ -1,4 +1,5 @@
 # msda_log_data_application
+## Log Tracking System for Live and Folder Updates
 
 This application tracks MSDA Clarkson server live. It also stores historical activities , how many users accessed this server,how many bytes were transfered,  how many transfers, uploads , downloads by each user and also captures activities trend.
 
