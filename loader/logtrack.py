@@ -132,19 +132,36 @@ class load_to_db:
             batch = data[i:i + batch_size]  
             self.cur.executemany(insert_sql, batch)  
         logger.info(f"{len(data)} rows inserted in {time.time() - start_time:.2f} seconds.")
+    
+
+    def create_file_if_not_exists(self,file_path,content):
+        """
+        Creates a file if it doesn't exist.
+        :param file_path: Path to the file
+        """
+        if not os.path.exists(file_path):
+            with open(file_path, 'w') as file:
+                # Optionally write initial content to the file
+                file.write(content)
+            print(f"File '{file_path}' created.")
+        else:
+            print(f"File '{file_path}' already exists.")
 
 class TrackLiveLog(load_to_db):
     def __init__(self, filepath,statefile):
         super().__init__()
         self.filepath=filepath
         self.data=[]
+        self.statefile=statefile
         self.last_position=self.load_last_position()
         self.last_hash = None
-        self.statefile=statefile
+        
     
     def load_last_position(self):
+
+        self.create_file_if_not_exists(self.statefile,'0')
         try:
-            with open('statefile.txt', 'r') as f:
+            with open(self.statefile, 'r') as f:
                 return int(f.read().strip())
         except (FileNotFoundError, ValueError):
             return 0  # Default to the start of the file if no state exists
@@ -217,6 +234,7 @@ class TrackFolder(load_to_db):
         self.process_files()
 
     def previous_loaded_files(self):
+        self.create_file_if_not_exists(self.processed_statefile,'')
         p=open(self.processed_statefile,'r')
         for line in p:
             entry=json.loads(line.strip())
@@ -224,6 +242,7 @@ class TrackFolder(load_to_db):
 
     def process_files(self):
         self.previous_loaded_files()
+        
         p=open(self.processed_statefile,'a')
 
         # print(self.processed_files)

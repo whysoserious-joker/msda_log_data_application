@@ -29,13 +29,11 @@ sess.init_app(app)
 def send_static(path):
     return send_from_directory('static', path)
 
-
-
 def mysql_connect(configfile='../config.yml'):
     
     with open(configfile,'r') as stream:
             config=yaml.safe_load(stream)
-            
+
     username = config['db']['username']
     password = config['db']['password']
     hostname = config['db']['hostname']

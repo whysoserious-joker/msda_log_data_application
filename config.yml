@@ -11,7 +11,7 @@ livefile:
   statefile: 'statefile.txt'
 
 folder:
-  path: logs
+  path: '../logs'
   processed_files: 'processed_logs.json'
 
   
