@@ -10,8 +10,9 @@ import json,os
 import pymysql
 import prebuilt_loggers as prebuilt_loggers
 import plotly
+import yaml
 import plotly.graph_objects as go
-
+import urllib.parse
 
 app_log = prebuilt_loggers.filesize_logger('logs/app.log')
 #create Flask app instance
@@ -28,21 +29,32 @@ sess.init_app(app)
 def send_static(path):
     return send_from_directory('static', path)
 
-def mysql_connect():
-    db_config = {
-        'host': 'localhost',
-        'user': 'root',
-        'password': 'password',
-        'database': 'msda_log',
-        'autocommit':True
-    }
+
+
+def mysql_connect(configfile='../config.yml'):
+    
+    with open(configfile,'r') as stream:
+            config=yaml.safe_load(stream)
+            
+    username = config['db']['username']
+    password = config['db']['password']
+    hostname = config['db']['hostname']
+    port = config['db']['port']
+    database_name = config['db']['database_name']
+    table_name= config['db']['table_name']
+    encoded_password = urllib.parse.quote_plus(password)
+
     try:
-        conn=pymysql.connect(**db_config)
-        cur = conn.cursor(pymysql.cursors.DictCursor)
+        conn = pymysql.connect(host=hostname, port=port, user=username,
+                passwd=encoded_password, db=database_name, autocommit=True)
+        
+        if conn:
+            print("Connected to mysql")
+            cur = conn.cursor(pymysql.cursors.DictCursor)
         return conn,cur
-    except pymysql.MySQLError as e:
-        app_log.error(f"Database connection failed: {str(e)}")
-        return None, None
+    except Exception as e:
+        print("Connection to myqsl Unsuccessful", e)
+        return None,None
 
 def get_usernames():
     conn,cur=mysql_connect()

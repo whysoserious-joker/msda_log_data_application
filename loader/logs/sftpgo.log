@@ -11100,5 +11100,3 @@
 {"level":"debug","time":"2024-09-18T18:39:18.009","sender":"eventmanager","message":"loading updated rules"}
 {"level":"debug","time":"2024-09-18T18:39:18.009","sender":"dataprovider_sqlite","message":"end user cache check, new update time 2024-09-18 18:39:18.009 +0000 UTC"}
 {"level":"debug","time":"2024-09-18T18:39:18.010","sender":"eventmanager","message":"recently updated event rules loaded: 0"}
-
-

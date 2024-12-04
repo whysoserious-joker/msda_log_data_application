@@ -1,0 +1,21 @@
+db:
+  username: 'root'
+  password: 'password'
+  hostname: 'localhost'
+  port: 3306
+  database_name: 'msda_log'
+  table_name: 'logdata'
+
+livefile:
+  filename: 'sftpgo.log'
+  statefile: 'statefile.txt'
+
+folder:
+  path: logs
+  processed_files: 'processed_logs.json'
+
+  
+
+
+
+
